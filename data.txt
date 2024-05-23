@@ -1,6 +1,0 @@
-www.teste.com.br | edu@gmail.com |12345
-www.teste.com.br | edu@gmail.com |teste
-outro teste | edu@gmail.com |teste
-www.teste.com.br | edu@gmail.com |12345
-edu | edu@gmail.com |12345
-www.teste.com.br | edu@gmail.com |kYP66)##iscBy12345
